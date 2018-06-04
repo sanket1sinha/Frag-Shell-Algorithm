@@ -41,7 +41,7 @@ The cells corresponding to any partition should be printed one cell per line, as
 
 Here's the output corresponding to our sample input.
 
-a1 : 3/n
+a1 : 3
 a2 : 2
 b1 : 2
 b2 : 3
